@@ -15,7 +15,7 @@
 - 🏢 **[Maken](https://maken.cl)** — agencia propia de desarrollo web. Diseño y despliego soluciones para clientes en Santiago/San Bernardo.
 - 📦 **Xtock** — plataforma SaaS multi-tenant de gestión de inventario (Angular · Node.js · Express · MongoDB Atlas), con app móvil complementaria en Flutter + notificaciones push (Firebase), pasarela de pago Flow.cl y despliegue en Railway/Cloudflare.
 - 🏥 **MEDISTOCK** — sistema de inventario médico (proyecto académico), con pasarela Webpay, despacho Shipit y notificaciones por SendGrid.
-- 🎯 Buscando activamente **práctica profesional o primer empleo** como desarrollador full-stack.
+
 
 ---
 
