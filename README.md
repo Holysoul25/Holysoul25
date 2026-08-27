@@ -44,7 +44,6 @@
 |---|---|---|
 | [maken-backend](https://github.com/Holysoul25/maken-backend) | Backend de la plataforma Maken | JavaScript, Node.js |
 | [medistock-grupo5](https://github.com/Holysoul25/medistock-grupo5) | Sistema de inventario médico con control de acceso por roles | TypeScript, Angular, MySQL |
-| applonic | *(agrega aquí una línea corta de qué hace)* | — |
 
 ---
 
